@@ -1,0 +1,21 @@
+"UnlitGeneric"
+{
+"%compilewater" 1
+$basetexture "water/nuclearwaste001"
+$surfaceprop "water"
+"$bottommaterial" "water/nuclearwaste001_beneath.vmt"
+$selfillum 1
+"%keywords" "tf"
+"$nocull" "1"
+
+"Proxies"
+{
+"TextureScroll"
+{
+"texturescrollvar" "$baseTextureTransform"
+"texturescrollrate" .02
+"texturescrollangle" 45.00
+}
+}
+
+}
