@@ -1,9 +1,0 @@
-"Patch"
-{
-	include "materials\models\weapons\c_items\c_doubleshot\c_ds_needle_uber.vmt"
-	
-	insert
-	{
-	"$selfillumtint" "[.2 .4 1]"
-	}
-}

@@ -1,9 +1,0 @@
-"Patch"
-{
-	include "materials\models\weapons\Skull_Buster\BoneDiffuseMap.vmt"
-	
-	insert
-	{
-	"$phong" "0"
-	}
-}

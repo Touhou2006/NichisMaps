@@ -1,9 +1,0 @@
-"Patch"
-{
-	include "materials/models/weapons/sutekhStaff/sutekhStaff_D.vmt"
-	
-	insert
-	{
-	"$baseTexture" "models/weapons/sutekhStaff/sutekhStaff_green_D"
-	}
-}

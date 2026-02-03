@@ -1,9 +1,0 @@
-"Patch"
-{
-	include "materials\models\weapons\c_items\c_ver_menace.vmt"
-	
-	insert
-	{
-	"$baseTexture" "models\weapons\c_items\c_ver_menace_ylw"
-	}
-}

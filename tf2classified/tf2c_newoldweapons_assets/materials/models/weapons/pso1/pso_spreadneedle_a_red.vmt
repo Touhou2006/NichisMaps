@@ -1,9 +1,0 @@
-"Patch"
-{
-	include "materials\models\weapons\PSO1\pso_spreadneedle_a.vmt"
-	
-	insert
-	{
-	"$baseTexture" "models\weapons\PSO1\pso_spreadneedle_a_red"
-	}
-}
